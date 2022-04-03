@@ -1,0 +1,6 @@
+curl -g \
+-X POST \
+-H "Content-Type: application/json" \
+-d '{"query":"query{pair(id: \"0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc\") {id token0 { id symbol } token1 { id symbol } trackedReserveETH reserveETH token0Price token1Price volumeToken0 
+volumeToken1 volumeUSD }}"}' \
+https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2

@@ -1,0 +1,5 @@
+curl -g \
+-X POST \
+-H "Content-Type: application/json" \
+-d '{"query":"query{pairs(first: 100, where: {reserveETH_gt: 2}) {id token0 { id symbol } token1 { id symbol } }}"}' \
+https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2

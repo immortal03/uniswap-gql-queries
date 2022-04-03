@@ -1,0 +1,103 @@
+{
+    "data": {
+        "__schema": {
+            "queryType": {
+                "fields": [
+                    {
+                        "name": "uniswapFactory"
+                    },
+                    {
+                        "name": "uniswapFactories"
+                    },
+                    {
+                        "name": "token"
+                    },
+                    {
+                        "name": "tokens"
+                    },
+                    {
+                        "name": "pair"
+                    },
+                    {
+                        "name": "pairs"
+                    },
+                    {
+                        "name": "user"
+                    },
+                    {
+                        "name": "users"
+                    },
+                    {
+                        "name": "liquidityPosition"
+                    },
+                    {
+                        "name": "liquidityPositions"
+                    },
+                    {
+                        "name": "liquidityPositionSnapshot"
+                    },
+                    {
+                        "name": "liquidityPositionSnapshots"
+                    },
+                    {
+                        "name": "transaction"
+                    },
+                    {
+                        "name": "transactions"
+                    },
+                    {
+                        "name": "mint"
+                    },
+                    {
+                        "name": "mints"
+                    },
+                    {
+                        "name": "burn"
+                    },
+                    {
+                        "name": "burns"
+                    },
+                    {
+                        "name": "swap"
+                    },
+                    {
+                        "name": "swaps"
+                    },
+                    {
+                        "name": "bundle"
+                    },
+                    {
+                        "name": "bundles"
+                    },
+                    {
+                        "name": "uniswapDayData"
+                    },
+                    {
+                        "name": "uniswapDayDatas"
+                    },
+                    {
+                        "name": "pairHourData"
+                    },
+                    {
+                        "name": "pairHourDatas"
+                    },
+                    {
+                        "name": "pairDayData"
+                    },
+                    {
+                        "name": "pairDayDatas"
+                    },
+                    {
+                        "name": "tokenDayData"
+                    },
+                    {
+                        "name": "tokenDayDatas"
+                    },
+                    {
+                        "name": "_meta"
+                    }
+                ]
+            }
+        }
+    }
+}
